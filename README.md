@@ -1,4 +1,7 @@
-# Gravitation Suite Neo
+# Gravitation Suite Neo Deassetified
+
+A fork of a semi popular GTNH exlusive mod for use outside of GTNH simply by stripping out the assets.
+
 
 Addon mod for [Gravitation Suite](https://forum.industrial-craft.net/thread/6915). Developed for version 2.0.3, using other versions may break in unexpected ways.
 
